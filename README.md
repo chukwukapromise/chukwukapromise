@@ -50,9 +50,6 @@
 <img src="https://streak-stats.demolab.com/?user=chukwukapromise&theme=tokyonight"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chukwukapromise&theme=algolia"/>
-</p>
 
 ---
 
